@@ -6,7 +6,7 @@ The purpose of the project was to collect selected stock information for 2017 an
 
 ## Results
 
-The updates I made to the code changed the way the code ran through the 12 ticker symbols. Instead of running the code multiple times for each ticker to get the final results, the refactored code ran through the tickers only once, which is the reason for the decreased time. The original code took 1.4 seconds and the refactored code took 0.28 seconds. 
+The updates I made to the code changed the way the code ran through the 12 ticker symbols. Instead of running the code multiple times for each ticker to get the final results, the refactored code ran through the tickers only once, which is the reason for the decreased time. The original code took approximately 1 second and the refactored code took 0.28 seconds. 
 
 Below is the refactored code and the screenshots showing the running time it took to run for both 2017 and 2018. 
 
@@ -154,7 +154,7 @@ Below is the refactored code and the screenshots showing the running time it too
 
 ### Advantage & Disadvantage of Refactoring
 
-As an advantage, the most significant different between the orginal and refactored code is the decrease in running time. The original analysis took almost one and half seconds to run, whereas the refactored code took approximately 0.28 seconds to run.
+As an advantage, the most significant different between the orginal and refactored code is the decrease in running time. The original analysis took almost one seconds to run, whereas the refactored code took approximately 0.28 seconds to run.
 
 As a disadvantage, refactoring code can be very time consuming and if not performed correctly could lead into a situation where there isn't a place to go or create a greater problem than there was originally.
 
