@@ -152,9 +152,11 @@ Below is the refactored code and the screenshots showing the running time it too
 
 ## Summary
 
-### Advantages of Refactoring Stock Analysis
+### Advantage & Disadvantage of Refactoring
 
-The most significant different between the orginal and refactored code is the decrease in running time. The original analysis took almost one and half seconds to run, whereas the refactored code took approximately 0.28 seconds to run.
+As an advantage, the most significant different between the orginal and refactored code is the decrease in running time. The original analysis took almost one and half seconds to run, whereas the refactored code took approximately 0.28 seconds to run.
+
+As a disadvantage, refactoring code can be very time consuming and if not performed correctly could lead into a situation where there isn't a place to go or create a greater problem than there was originally.
 
 ### Pros & Cons of Refactoring
 
