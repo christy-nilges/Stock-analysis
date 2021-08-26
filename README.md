@@ -6,7 +6,9 @@ The purpose of the project was to collect selected stock information for 2017 an
 
 ## Results
 
-The updates I made to the code changed the way the code ran through the 12 ticker symbols. Instead of running the code multiple times for each ticker to get the final results, the refactored code ran through the tickers only once, which is the reason for the decreased time. Below is the refactored code and the screenshots showing the running time it took to run for both 2017 and 2018. 
+The updates I made to the code changed the way the code ran through the 12 ticker symbols. Instead of running the code multiple times for each ticker to get the final results, the refactored code ran through the tickers only once, which is the reason for the decreased time. The original code took 1.4 seconds and the refactored code took 0.28 seconds. 
+
+Below is the refactored code and the screenshots showing the running time it took to run for both 2017 and 2018. 
 
     Sub AllStocksAnalysisRefactored()
     Dim startTime As Single
